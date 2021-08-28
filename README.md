@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,I'm Yarkın</h1>
-<h3 align="center">jjjj</h3>
+<h3 align="center">12th grade student at Private Kayabaşı Anatolian High School</h3>
 
 <!--
 **yarkinuzeyiroglu/yarkinuzeyiroglu ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbeyzas" alt="yarkinuzeyiroglu" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarkinuzeyiroglu" alt="yarkinuzeyiroglu" /></a> </p>
 
 <p align="center">
 	<a href="https://github.com/yarkinuzeyiroglu">
