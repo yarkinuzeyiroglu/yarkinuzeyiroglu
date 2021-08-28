@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,I'm Yarkın</h1>
-<h3 align="center">12th grade Student</h3>
+<h3 align="center">Student</h3>
 
 <!--
 **yarkinuzeyiroglu/yarkinuzeyiroglu ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
