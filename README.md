@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarkinuzeyiroglu" alt="yarkinuzeyiroglu" /></a> </p>
 
 <p align="center">
-<a href="https://github.com/yarkinuzeyiroglu">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=yarkinuzeyiroglu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarkinuzeyiroglu&layout=compact&langs_count=16&theme=react"/>
- </div>
+	<a href="https://github.com/yarkinuzeyiroglu">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yarkinuzeyiroglu&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="yarkinuzeyiroglu"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarkinuzeyiroglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="yarkinuzeyiroglu"/>
+	</a>
 </p>
 
 <p align="center">
