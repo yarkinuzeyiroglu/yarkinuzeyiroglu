@@ -29,3 +29,9 @@ Here are some ideas to get you started:
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yarkinuzeyiroglu?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/yarkinuzeyiroglu?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
+ <h2 align="center">Sosyal Medya Hesaplarım</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/yarkinuzeyiroglu/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://instagram.com/yarkinuzeyiroglu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
+</p>
