@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarkinuzeyiroglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="yarkinuzeyiroglu"/>
 	</a>
 </p>
+
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/yarkinuzeyiroglu" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yarkinuzeyiroglu?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/yarkinuzeyiroglu?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
