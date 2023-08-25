@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there,%20I'm%20YARKIN&width=900&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there,%20I'm%20YARKIN&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 
 
