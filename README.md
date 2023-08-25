@@ -1,3 +1,10 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20👋%20I'm%20YARKIN&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
+
+
+
+<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
 <h1 align="center">Hi there,I'm Yarkın</h1>
 <h3 align="center">Student</h3>
 
