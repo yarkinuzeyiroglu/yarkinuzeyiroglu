@@ -5,7 +5,7 @@
 <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-<h1 align="center">Hi there,I'm Yarkın</h1>
+# <h1 align="center">Hi there,I'm Yarkın</h1>
 <h3 align="center">Student</h3>
 
 <!--
