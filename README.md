@@ -1,396 +1,408 @@
 <!--
-  Yarkın Üzeyiroğlu — GitHub Profile README
-  Design language: Minimal / Dark / Apple-inspired / Biomedical Tech
+  GitHub Profile README
+  Author: Yarkın Üzeyiroğlu
+  Style: Apple-inspired / Liquid Glass-inspired / Minimal / Premium
 -->
+
 <div align="center">
-<img 
-  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,45:111111,100:E50914&text=Yark%C4%B1n%20%C3%9Czeyiro%C4%9Flu&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Biomedical%20Engineering%20%C2%B7%20AI%20%C2%B7%20Robotics%20%C2%B7%20Biotechnology&descColor=E6E6E6&descSize=18&descAlignY=62&animation=fadeIn" 
-  alt="Yarkın Üzeyiroğlu"
-/>
-<br>
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=E50914&center=true&vCenter=true&width=900&lines=Designing+intelligent+systems+for+biomedical+technology.;Where+biology+meets+electronics%2C+software+and+design.;Biomedical+AI+%7C+Biosensors+%7C+Robotics+%7C+Medical+Devices.;Engineering+the+bridge+between+life+and+intelligence." 
-  alt="Typing animation"
-/>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:F5F5F7,30:EDEDED,65:D9D9DE,100:8A0F16&text=Yarkın%20Üzeyiroğlu&fontColor=111111&fontSize=50&fontAlignY=42&desc=Biomedical%20Engineering%20%20·%20%20AI%20%20·%20%20Robotics%20%20·%20%20Biotechnology&descColor=4B4B52&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&pause=1400&color=2C2C2E&center=true&vCenter=true&width=980&lines=Designing+intelligent+biomedical+systems.;Where+biology%2C+electronics%2C+AI+and+design+converge.;Biomedical+Engineering+Student+%7C+Double+Major+in+Electrical+%26+Electronics+Engineering.;Building+the+future+of+human-centered+technology." alt="Typing SVG" />
+
+<br><br>
+
 <a href="mailto:yarkinuzeyiroglu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/yarkinuzeyiroglu/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/yarkinuzeyiroglu">
-  <img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/yarkinuzeyiroglu?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E50914" />
+  <img src="https://img.shields.io/badge/Repositories-8A0F16?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=yarkinuzeyiroglu&style=for-the-badge&color=E50914&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/yarkinuzeyiroglu?style=for-the-badge&color=111111&labelColor=000000&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/yarkinuzeyiroglu?style=for-the-badge&color=E50914&labelColor=000000&label=STARS" />
+
+<img src="https://komarev.com/ghpvc/?username=yarkinuzeyiroglu&style=for-the-badge&color=8A0F16&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/yarkinuzeyiroglu?style=for-the-badge&label=FOLLOWERS&color=2C2C2E" />
+<img src="https://img.shields.io/github/stars/yarkinuzeyiroglu?style=for-the-badge&label=STARS&color=8A0F16" />
+
 </div>
-<br>
+
 ---
-<br>
+
 <div align="center">
-### `Biomedical Engineering · Artificial Intelligence · Robotics · Design`
-<h2>
-Engineering the future where living systems, intelligent software and physical machines converge.
-</h2>
-<p>
-I am a <b>Biomedical Engineering student</b> focused on building a strong interdisciplinary foundation across 
-<b>biotechnology</b>, <b>artificial intelligence</b>, <b>robotics</b>, <b>biosensors</b>, 
-<b>embedded systems</b>, and <b>medical device technologies</b>.
-</p>
-<p>
-My direction is shaped by one core idea: technology becomes powerful when it understands both 
-<b>human biology</b> and <b>intelligent systems</b>.
-</p>
+
+## `About Me`
+
 </div>
-<br>
+
+<table>
+<tr>
+<td>
+
+I’m **Yarkın Üzeyiroğlu**, a **Biomedical Engineering student** with a strong interdisciplinary direction shaped by **artificial intelligence**, **robotics**, **biotechnology**, **embedded systems**, and **medical device development**.
+
+I am also pursuing a **double major in Electrical & Electronics Engineering**, expanding my perspective from biological systems to intelligent electronic architectures and computational problem-solving.
+
+My work and academic interests revolve around one central idea:
+
+> **The most meaningful technologies emerge when biology, intelligence, engineering, and design are treated as one integrated system.**
+
+I’m especially interested in developing systems that are:
+
+- **intelligent** enough to interpret complex biomedical information  
+- **precise** enough for engineering reliability  
+- **elegant** enough to feel human-centered  
+- **innovative** enough to create real-world healthcare impact  
+
+</td>
+</tr>
+</table>
+
 ---
-## Mission
+
+<div align="center">
+
+## `Core Identity`
+
+</div>
+
 <table>
 <tr>
 <td width="25%" align="center">
-### Biology  
-Understanding living systems, biological signals, tissues, fluids and biomedical complexity.
+
+### Biomedical  
+Biosensors, medical devices, biomedical instrumentation, biomaterials, and healthcare-oriented systems.
+
 </td>
 <td width="25%" align="center">
-### Electronics  
-Building perception through sensors, circuits, microcontrollers and embedded platforms.
-</td>
-<td width="25%" align="center">
+
 ### Intelligence  
-Using software, AI, optimization and computational models to extract meaning from data.
+Artificial intelligence, optimization, data-driven systems, and computational biomedical analysis.
+
 </td>
 <td width="25%" align="center">
+
+### Robotics  
+Embedded systems, sensors, control logic, robotic platforms, and intelligent hardware.
+
+</td>
+<td width="25%" align="center">
+
 ### Design  
-Transforming ideas into elegant, usable, testable and human-centered engineering systems.
+CAD, simulation, prototyping, systems thinking, and human-centered engineering aesthetics.
+
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## `Current Focus`
+
+</div>
+
+```yaml
+academic_direction:
+  university: Izmir Bakircay University
+  major: Biomedical Engineering
+  double_major: Electrical & Electronics Engineering
+
+research_interests:
+  - AI in healthcare
+  - Biosensor development
+  - Microfluidics and lab-on-a-chip systems
+  - Organ-on-a-chip platforms
+  - Biomedical image processing
+  - Sensor-integrated robotic systems
+  - Smart medical device design
+  - Simulation-supported engineering workflows
+
+engineering_goals:
+  - Build meaningful biomedical technologies
+  - Integrate AI with biotechnology
+  - Develop interdisciplinary healthcare solutions
+  - Strengthen both hardware and computational engineering capabilities
+```
+
+---
+
+<div align="center">
+
+## `Technology Stack`
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,arduino,git,github,html,css,vscode,figma" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Research%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Engineering-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-Computational%20Analysis-E16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SolidWorks-CAD%20Design-D32F2F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANSYS-Simulation%20%26%20CFD-FFB300?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Image%20Processing-Biomedical%20Vision-5C6BC0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Optimization-Intelligent%20Systems-8A0F16?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `Engineering Vision`
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### What I want to build
+
+- AI-supported biomedical systems  
+- Portable biosensor platforms  
+- Smart diagnostic technologies  
+- Organ-on-a-chip and microfluidic devices  
+- Sensor-driven robotic systems  
+- Biomedical data analysis tools  
+- Human-centered medical technologies  
+
+</td>
+<td width="50%">
+
+### How I think
+
+- Interdisciplinary first  
+- Design with function  
+- Intelligence with purpose  
+- Engineering with precision  
+- Research with impact  
+- Simplicity with depth  
+- Innovation with meaning  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `Selected Project Direction`
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Biosensors  
+Portable sensing systems for biomarker and vitamin analysis, electrochemical detection, and biomedical measurement.
+
+</td>
+<td width="33%" align="center">
+
+### Microfluidics  
+Compact sample processing, filtration logic, and lab-on-a-chip platforms for biomedical applications.
+
+</td>
+<td width="33%" align="center">
+
+### Organ-on-a-Chip  
+Biomimetic platforms and microphysiological systems for advanced biomedical research.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### Biomedical AI  
+Machine learning, optimization, medical image analysis, and healthcare-oriented intelligent systems.
+
+</td>
+<td width="33%" align="center">
+
+### Robotics  
+Sensor-based robotic systems, embedded logic, and intelligent mechatronic integration.
+
+</td>
+<td width="33%" align="center">
+
+### Simulation & CAD  
+SolidWorks-based design, CFD, engineering validation, and prototype-centered development.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `GitHub Analytics`
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yarkinuzeyiroglu&show_icons=true&theme=transparent&hide_border=true&title_color=111111&icon_color=8A0F16&text_color=3A3A3C&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarkinuzeyiroglu&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=3A3A3C&bg_color=00000000&langs_count=8" alt="languages" />
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=yarkinuzeyiroglu&theme=default&hide_border=true&background=FFFFFF00&ring=8A0F16&fire=8A0F16&currStreakLabel=111111&sideLabels=3A3A3C&currStreakNum=111111&sideNums=111111&dates=6E6E73" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `Contribution Flow`
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yarkinuzeyiroglu&bg_color=00000000&color=3A3A3C&line=8A0F16&point=111111&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `Profile Summary`
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarkinuzeyiroglu&theme=default" alt="profile details" />
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarkinuzeyiroglu&theme=default" alt="repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yarkinuzeyiroglu&theme=default" alt="most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarkinuzeyiroglu&theme=default" alt="stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `Recognition`
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=yarkinuzeyiroglu&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `Interactive Panels`
+
+</div>
+
+<details>
+<summary><b>Open full profile</b></summary>
+
 <br>
+
 ```txt
-I do not see biomedical engineering as a single discipline.
-I see it as a convergence point:
-biology gives the system life,
-electronics gives it perception,
-software gives it intelligence,
-and design gives it meaning.
-<br>
+Name        : Yarkın Üzeyiroğlu
+Field       : Biomedical Engineering
+Second Field: Electrical & Electronics Engineering
+Focus       : AI, biotechnology, robotics, biosensors, medical devices
+Strength    : interdisciplinary systems thinking
+Approach    : engineering precision + design clarity + research depth
+Mission     : build meaningful technologies for healthcare and beyond
+```
 
-⸻
-
-Engineering Identity
-
-<table>
-<tr>
-<td width="50%">
-
-Biomedical Technology
-
-* Biosensors
-* Medical device concepts
-* Biomedical instrumentation
-* Biomaterials and tissue engineering
-* Lab-on-a-chip systems
-* Organ-on-a-chip platforms
-* Portable analysis systems
-
-</td>
-<td width="50%">
-
-Intelligent Systems
-
-* Artificial intelligence
-* Machine learning fundamentals
-* Optimization
-* Biomedical image processing
-* Sensor-based decision systems
-* Data-driven healthcare concepts
-* Computational biomedical analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-Robotics & Hardware
-
-* Robotic systems
-* Sensor integration
-* Arduino and microcontrollers
-* Embedded system logic
-* Real-time data acquisition
-* Biomedical robotics concepts
-* Control-oriented thinking
-
-</td>
-<td width="50%">
-
-Design & Simulation
-
-* SolidWorks CAD design
-* ANSYS simulation
-* CFD analysis
-* Mechanical modeling
-* Biomedical flow behavior
-* Prototyping
-* Engineering validation
-
-</td>
-</tr>
-</table>
-<br>
-
-⸻
-
-Technology Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,arduino,html,css,git,github,vscode,figma" />
-<img src="https://img.shields.io/badge/Python-Research%20%26%20AI-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=E50914" />
-<img src="https://img.shields.io/badge/C%2B%2B-Engineering%20Logic-E50914?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/MATLAB-Engineering%20Computing-111111?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=E50914" />
-<img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-E50914?style=for-the-badge&logo=arduino&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/SolidWorks-CAD%20Design-111111?style=for-the-badge&labelColor=E50914" />
-<img src="https://img.shields.io/badge/ANSYS-Simulation%20%26%20CFD-E50914?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/Image%20Processing-Biomedical%20Vision-111111?style=for-the-badge&labelColor=E50914" />
-<img src="https://img.shields.io/badge/AI%20%26%20Optimization-Intelligent%20Systems-E50914?style=for-the-badge&labelColor=111111" />
-</div>
-<br>
-
-⸻
-
-Current Direction
-
-focus:
-  primary:
-    - Biomedical artificial intelligence
-    - Biosensor development
-    - Medical device design
-    - Robotics and embedded systems
-    - Microfluidic platforms
-    - Organ-on-a-chip systems
-  engineering_tools:
-    - Python
-    - C++
-    - MATLAB
-    - Arduino
-    - SolidWorks
-    - ANSYS
-    - Git & GitHub
-  interests:
-    - AI-supported healthcare technologies
-    - Portable biomedical analysis devices
-    - Smart sensor systems
-    - Biomedical robotics
-    - CAD-based prototyping
-    - Computational biomedical research
-<br>
-
-⸻
-
-Research & Project Map
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-Biosensors
-
-Electrochemical sensing, biomarker detection, portable biomedical analysis, vitamin and biological sample analysis.
-
-</td>
-<td align="center" width="33%">
-
-Microfluidics
-
-Sample separation, lab-on-a-chip systems, controlled biomedical fluids and compact analysis platforms.
-
-</td>
-<td align="center" width="33%">
-
-Organ-on-a-Chip
-
-Biomimetic systems, tissue models, microphysiological platforms and biomedical research devices.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-Biomedical AI
-
-Medical image processing, machine learning, optimization and data-driven healthcare technologies.
-
-</td>
-<td align="center" width="33%">
-
-Robotics
-
-Sensor-based robotic systems, embedded platforms, intelligent control and biomedical robotics concepts.
-
-</td>
-<td align="center" width="33%">
-
-Simulation
-
-CFD, mechanical modeling, flow analysis, design validation and engineering performance studies.
-
-</td>
-</tr>
-</table>
-<br>
-
-⸻
-
-GitHub Overview
-
-<div align="center">
-</div>
-<br>
-
-⸻
-
-Contribution System
-
-<div align="center">
-</div>
-<br>
-
-⸻
-
-Profile Summary
-
-<div align="center">
-</div>
-<br>
-
-⸻
-
-Recognition
-
-<div align="center">
-</div>
-<br>
-
-⸻
-
-Interactive Console
+</details>
 
 <details>
-<summary><b>Open engineering profile</b></summary>
+<summary><b>Open long-term ambition</b></summary>
+
 <br>
-name        : Yarkın Üzeyiroğlu
-field       : Biomedical Engineering
-direction   : AI-supported biomedical technology
-interests   : biosensors, robotics, embedded systems, medical devices, biotechnology
-tools       : Python, C++, MATLAB, Arduino, SolidWorks, ANSYS
-identity    : interdisciplinary builder
-mission     : transform biological complexity into intelligent engineering systems
+
+I want to contribute to the future of **biomedical innovation** by combining:
+
+- **biological understanding**
+- **electronic intelligence**
+- **computational reasoning**
+- **engineering design**
+- **human-centered impact**
+
+My broader goal is to become an engineer who can build not only technically successful systems, but also systems that matter.
+
 </details>
-<details>
-<summary><b>Open project vision</b></summary>
-<br>
-The kind of systems I want to build:
-01. Portable biomedical analysis platforms
-02. AI-supported biosensor systems
-03. Lab-on-a-chip and microfluidic devices
-04. Organ-on-a-chip research platforms
-05. Sensor-integrated robotic systems
-06. Smart medical device prototypes
-07. Biomedical image processing tools
-08. Simulation-supported engineering designs
-</details>
+
 <details>
 <summary><b>Open collaboration areas</b></summary>
+
 <br>
-I am open to ideas and collaborations around:
-- Biomedical engineering research
-- AI in healthcare
-- Biosensor and biomarker analysis
-- Robotics and embedded systems
-- Medical device prototyping
-- CAD and simulation-based design
-- Interdisciplinary engineering projects
+
+I’m open to collaboration in areas such as:
+
+- biomedical engineering projects  
+- AI in healthcare  
+- biosensor systems  
+- medical device concepts  
+- robotics and embedded systems  
+- simulation-based engineering work  
+- interdisciplinary research and design  
+
 </details>
-<br>
 
-⸻
-
-Featured Project Slots
-
-<table>
-<tr>
-<td width="50%">
-
-Biomedical AI System
-
-A future-oriented project area focused on combining biomedical data, intelligent algorithms and healthcare-oriented decision systems.
-
-AI · Biomedical Data · Python · Healthcare
-
-</td>
-<td width="50%">
-
-Biosensor Platform
-
-Portable sensing systems for biological sample analysis, electrochemical detection and biomedical measurement concepts.
-
-Biosensors · Electrochemistry · Microfluidics · Medical Devices
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-Robotic System
-
-Sensor-based robotic platforms focused on intelligent movement, environmental awareness and embedded control.
-
-Robotics · Arduino · Sensors · Control
-
-</td>
-<td width="50%">
-
-Simulation & CAD
-
-Engineering validation through CAD design, CFD, mechanical modeling and prototype-oriented simulation workflows.
-
-SolidWorks · ANSYS · CFD · Design
-
-</td>
-</tr>
-</table>
-<br>
-
-⸻
+---
 
 <div align="center">
 
-Connect
+## `Connect`
 
 <a href="mailto:yarkinuzeyiroglu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/yarkinuzeyiroglu/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/yarkinuzeyiroglu">
-  <img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://github.com/yarkinuzeyiroglu?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E50914" />
+<a href="https://github.com/yarkinuzeyiroglu">
+  <img src="https://img.shields.io/badge/GitHub-8A0F16?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<h3>
-Designing intelligent biomedical systems with engineering precision and human-centered vision.
-</h3>
-<br>
-</div>
-```
-:::
 
-Bunu özellikle önceki versiyonlardan daha iyi yapan şey şu: profil artık sadece “öğrenci tanıtımı” gibi değil, kişisel marka vitrini gibi duruyor. Üst kısım daha sinematik, orta kısım daha kurumsal, alt kısım daha GitHub odaklı. Ayrıca “Student” ifadesinin zayıflığını kaldırıp seni Biomedical Technology Builder çizgisine yaklaştırıyor.
+<br><br>
+
+### *Designing intelligent biomedical systems with precision, elegance, and purpose.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=130&section=footer&color=0:F5F5F7,40:EDEDED,75:D9D9DE,100:8A0F16" alt="footer" />
+
+</div>
