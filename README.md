@@ -1,16 +1,22 @@
 <!--
   GitHub Profile README
   Author: Yarkın Üzeyiroğlu
-  Style: Apple-inspired / Liquid Glass-inspired / Minimal / Premium
+  Style: Apple-inspired / Liquid Glass-inspired / Clean / Readable / Stable
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:F5F5F7,30:EDEDED,65:D9D9DE,100:8A0F16&text=Yarkın%20Üzeyiroğlu&fontColor=111111&fontSize=50&fontAlignY=42&desc=Biomedical%20Engineering%20%20·%20%20AI%20%20·%20%20Robotics%20%20·%20%20Biotechnology&descColor=4B4B52&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:F8F8FA,35:ECECF0,70:D8D8DE,100:8A0F16&text=Yark%C4%B1n%20%C3%9Czeyiro%C4%9Flu&fontColor=111111&fontSize=48&fontAlignY=42&desc=Biomedical%20Engineering%20%C2%B7%20AI%20%C2%B7%20Robotics%20%C2%B7%20Biotechnology&descColor=3A3A3C&descSize=18&descAlignY=61&animation=fadeIn" 
+  alt="Yarkın Üzeyiroğlu"
+/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&pause=1400&color=2C2C2E&center=true&vCenter=true&width=980&lines=Designing+intelligent+biomedical+systems.;Where+biology%2C+electronics%2C+AI+and+design+converge.;Biomedical+Engineering+Student+%7C+Double+Major+in+Electrical+%26+Electronics+Engineering.;Building+the+future+of+human-centered+technology." alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=1200&color=8A0F16&center=true&vCenter=true&width=900&lines=Designing+intelligent+biomedical+systems.;Where+biology%2C+electronics%2C+AI+and+design+converge.;Biomedical+Engineering+%7C+Electrical+%26+Electronics+Engineering.;Building+human-centered+technology+with+precision+and+purpose." 
+  alt="Typing SVG"
+/>
 
 <br><br>
 
@@ -35,81 +41,82 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
-## `About Me`
+# Biomedical Engineering × Artificial Intelligence × Robotics
+
+### Designing intelligent biomedical systems with precision, elegance, and purpose.
 
 </div>
 
-<table>
-<tr>
-<td>
+<br>
 
-I’m **Yarkın Üzeyiroğlu**, a **Biomedical Engineering student** with a strong interdisciplinary direction shaped by **artificial intelligence**, **robotics**, **biotechnology**, **embedded systems**, and **medical device development**.
+## About Me
 
-I am also pursuing a **double major in Electrical & Electronics Engineering**, expanding my perspective from biological systems to intelligent electronic architectures and computational problem-solving.
+I’m **Yarkın Üzeyiroğlu**, a **Biomedical Engineering student** at **İzmir Bakırçay University** with a strong interdisciplinary direction shaped by **artificial intelligence**, **robotics**, **biotechnology**, **embedded systems**, and **medical device development**.
 
-My work and academic interests revolve around one central idea:
+I am also pursuing a **double major in Electrical & Electronics Engineering**, which strengthens my perspective across biological systems, electronic architectures, signal-based thinking, hardware integration, and computational problem-solving.
+
+My academic and project direction is built around one central idea:
 
 > **The most meaningful technologies emerge when biology, intelligence, engineering, and design are treated as one integrated system.**
 
-I’m especially interested in developing systems that are:
+I am especially interested in developing technologies that are intelligent enough to interpret biomedical complexity, precise enough for engineering reliability, elegant enough to remain human-centered, and innovative enough to create real-world healthcare impact.
 
-- **intelligent** enough to interpret complex biomedical information  
-- **precise** enough for engineering reliability  
-- **elegant** enough to feel human-centered  
-- **innovative** enough to create real-world healthcare impact  
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-## `Core Identity`
-
-</div>
+## Core Identity
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### Biomedical  
+### Biomedical
+
 Biosensors, medical devices, biomedical instrumentation, biomaterials, and healthcare-oriented systems.
 
 </td>
 <td width="25%" align="center">
 
-### Intelligence  
-Artificial intelligence, optimization, data-driven systems, and computational biomedical analysis.
+### Intelligence
+
+Artificial intelligence, optimization, biomedical data analysis, and computational decision systems.
 
 </td>
 <td width="25%" align="center">
 
-### Robotics  
+### Robotics
+
 Embedded systems, sensors, control logic, robotic platforms, and intelligent hardware.
 
 </td>
 <td width="25%" align="center">
 
-### Design  
-CAD, simulation, prototyping, systems thinking, and human-centered engineering aesthetics.
+### Design
+
+CAD, simulation, prototyping, engineering validation, and human-centered product thinking.
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-<div align="center">
+<br>
 
-## `Current Focus`
-
-</div>
+## Current Focus
 
 ```yaml
 academic_direction:
@@ -129,18 +136,18 @@ research_interests:
 
 engineering_goals:
   - Build meaningful biomedical technologies
-  - Integrate AI with biotechnology
+  - Integrate artificial intelligence with biotechnology
   - Develop interdisciplinary healthcare solutions
-  - Strengthen both hardware and computational engineering capabilities
+  - Strengthen hardware, software and design capabilities
 ```
+
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-## `Technology Stack`
-
-</div>
+## Technology Stack
 
 <div align="center">
 
@@ -149,7 +156,7 @@ engineering_goals:
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-Research%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-Engineering-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Engineering%20Logic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-Computational%20Analysis-E16737?style=for-the-badge&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
@@ -162,13 +169,13 @@ engineering_goals:
 
 </div>
 
+<br>
+
 ---
 
-<div align="center">
+<br>
 
-## `Engineering Vision`
-
-</div>
+## Engineering Vision
 
 <table>
 <tr>
@@ -201,31 +208,34 @@ engineering_goals:
 </tr>
 </table>
 
+<br>
+
 ---
 
-<div align="center">
+<br>
 
-## `Selected Project Direction`
-
-</div>
+## Project Direction
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Biosensors  
+### Biosensors
+
 Portable sensing systems for biomarker and vitamin analysis, electrochemical detection, and biomedical measurement.
 
 </td>
 <td width="33%" align="center">
 
-### Microfluidics  
+### Microfluidics
+
 Compact sample processing, filtration logic, and lab-on-a-chip platforms for biomedical applications.
 
 </td>
 <td width="33%" align="center">
 
-### Organ-on-a-Chip  
+### Organ-on-a-Chip
+
 Biomimetic platforms and microphysiological systems for advanced biomedical research.
 
 </td>
@@ -233,99 +243,59 @@ Biomimetic platforms and microphysiological systems for advanced biomedical rese
 <tr>
 <td width="33%" align="center">
 
-### Biomedical AI  
+### Biomedical AI
+
 Machine learning, optimization, medical image analysis, and healthcare-oriented intelligent systems.
 
 </td>
 <td width="33%" align="center">
 
-### Robotics  
+### Robotics
+
 Sensor-based robotic systems, embedded logic, and intelligent mechatronic integration.
 
 </td>
 <td width="33%" align="center">
 
-### Simulation & CAD  
+### Simulation & CAD
+
 SolidWorks-based design, CFD, engineering validation, and prototype-centered development.
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## `GitHub Analytics`
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yarkinuzeyiroglu&show_icons=true&theme=transparent&hide_border=true&title_color=111111&icon_color=8A0F16&text_color=3A3A3C&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarkinuzeyiroglu&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=3A3A3C&bg_color=00000000&langs_count=8" alt="languages" />
-
-<br><br>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=yarkinuzeyiroglu&theme=default&hide_border=true&background=FFFFFF00&ring=8A0F16&fire=8A0F16&currStreakLabel=111111&sideLabels=3A3A3C&currStreakNum=111111&sideNums=111111&dates=6E6E73" alt="streak" />
-
-</div>
+<br>
 
 ---
 
+<br>
+
+## Stable GitHub Overview
+
+Instead of using fragile dynamic statistic cards that may fail because of API limits, caching issues or third-party rendering errors, this profile keeps the GitHub section clean and stable.
+
 <div align="center">
 
-## `Contribution Flow`
+<a href="https://github.com/yarkinuzeyiroglu?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/yarkinuzeyiroglu?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Stars-8A0F16?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/yarkinuzeyiroglu?tab=followers">
+  <img src="https://img.shields.io/badge/View%20Network-2C2C2E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yarkinuzeyiroglu&bg_color=00000000&color=3A3A3C&line=8A0F16&point=111111&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-</div>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-## `Profile Summary`
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarkinuzeyiroglu&theme=default" alt="profile details" />
-
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarkinuzeyiroglu&theme=default" alt="repos per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yarkinuzeyiroglu&theme=default" alt="most commit language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarkinuzeyiroglu&theme=default" alt="stats" />
-
-</div>
-
----
-
-<div align="center">
-
-## `Recognition`
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=yarkinuzeyiroglu&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## `Interactive Panels`
-
-</div>
+## Interactive Profile Panels
 
 <details>
 <summary><b>Open full profile</b></summary>
@@ -333,13 +303,13 @@ SolidWorks-based design, CFD, engineering validation, and prototype-centered dev
 <br>
 
 ```txt
-Name        : Yarkın Üzeyiroğlu
-Field       : Biomedical Engineering
-Second Field: Electrical & Electronics Engineering
-Focus       : AI, biotechnology, robotics, biosensors, medical devices
-Strength    : interdisciplinary systems thinking
-Approach    : engineering precision + design clarity + research depth
-Mission     : build meaningful technologies for healthcare and beyond
+Name         : Yarkın Üzeyiroğlu
+Field        : Biomedical Engineering
+Second Field : Electrical & Electronics Engineering
+Focus        : AI, biotechnology, robotics, biosensors, medical devices
+Strength     : interdisciplinary systems thinking
+Approach     : engineering precision + design clarity + research depth
+Mission      : build meaningful technologies for healthcare and beyond
 ```
 
 </details>
@@ -349,13 +319,7 @@ Mission     : build meaningful technologies for healthcare and beyond
 
 <br>
 
-I want to contribute to the future of **biomedical innovation** by combining:
-
-- **biological understanding**
-- **electronic intelligence**
-- **computational reasoning**
-- **engineering design**
-- **human-centered impact**
+I want to contribute to the future of **biomedical innovation** by combining biological understanding, electronic intelligence, computational reasoning, engineering design, and human-centered impact.
 
 My broader goal is to become an engineer who can build not only technically successful systems, but also systems that matter.
 
@@ -368,21 +332,42 @@ My broader goal is to become an engineer who can build not only technically succ
 
 I’m open to collaboration in areas such as:
 
-- biomedical engineering projects  
+- Biomedical engineering projects  
 - AI in healthcare  
-- biosensor systems  
-- medical device concepts  
-- robotics and embedded systems  
-- simulation-based engineering work  
-- interdisciplinary research and design  
+- Biosensor systems  
+- Medical device concepts  
+- Robotics and embedded systems  
+- Simulation-based engineering work  
+- Interdisciplinary research and design  
 
 </details>
 
+<br>
+
 ---
+
+<br>
+
+## Engineering Philosophy
+
+```txt
+Biology gives the system life.
+Electronics gives it perception.
+Software gives it intelligence.
+Design gives it meaning.
+```
+
+The strongest engineering solutions emerge when living systems, intelligent computation, physical hardware, and design clarity are not separated, but connected into one meaningful whole.
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
-## `Connect`
+## Connect
 
 <a href="mailto:yarkinuzeyiroglu@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -403,6 +388,9 @@ I’m open to collaboration in areas such as:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=130&section=footer&color=0:F5F5F7,40:EDEDED,75:D9D9DE,100:8A0F16" alt="footer" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=0:F8F8FA,40:ECECF0,75:D8D8DE,100:8A0F16" 
+  alt="footer" 
+/>
 
 </div>
